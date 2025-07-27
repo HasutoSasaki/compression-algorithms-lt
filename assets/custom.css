@@ -4,24 +4,24 @@
 @import "default";
 
 img {
-    padding-top: 20px;
-    width: 300px;
-    margin: auto;
+  padding-top: 20px;
+  width: 300px;
+  margin: auto;
 }
 
 header {
-    background-color: #001c6a;
-    color: #fff;
-    width: 100%;
-    height: 70px;
-    padding-left: 20px;
-    font-weight: bold;
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    position: absolute;
-    top: 0;
-    left: 0;
+  background-color: #001c6a;
+  color: #fff;
+  width: 100%;
+  height: 70px;
+  padding-left: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 body,
@@ -32,5 +32,20 @@ h4,
 h5,
 h6,
 p {
-    color: #33495D
+  color: #33495d;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+}
+
+/* 自己紹介の写真用 */
+.icon {
+  width: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: auto;
 }
