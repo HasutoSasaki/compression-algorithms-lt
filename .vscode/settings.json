@@ -1,5 +1,5 @@
 {
     "markdown.marp.themes": [
-        "./docs/custom.css"
+        "./assets/custom.css"
     ]
 }
