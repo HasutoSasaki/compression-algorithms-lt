@@ -220,6 +220,21 @@ header: "除外トリック"
 
 ### モノクロ画像の例
 
+<div class="flex-slide">
+<div>
+<p>圧縮前</p>
+<img class='slide-image' src="./assets/images/demo/圧縮前.jpg" alt="圧縮前" />
+</div>
+<div>
+<p>圧縮後 </p>
+<img class='slide-image' src="./assets/images/demo/圧縮後.jpg" alt="圧縮後" />
+</div>
+</div>
+
+---
+
+### ピクセルで表してみる
+
 除外トリックでは、１行,1 列おきにピクセルを取り除きます。
 
 ```shell
