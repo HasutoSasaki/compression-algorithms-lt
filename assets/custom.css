@@ -35,6 +35,11 @@ p {
   color: #33495d;
 }
 
+/*本日伝えたいこと様*/
+.clothes{
+  transform: rotate(270deg);
+}
+
 .flex {
   display: flex;
   flex-wrap: wrap;

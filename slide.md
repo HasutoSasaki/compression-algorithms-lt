@@ -76,7 +76,12 @@ header: "自己紹介と本日伝えたいこと"
 
 ---
 
-圧縮は身近にあり、その仕組みは面白い！
+<div class="flex">
+ <p>
+  圧縮は身近にあり、その仕組みは面白い！
+ </p>
+ <img　class="clothes" src="./assets/images/服.jpeg"/>
+</div>
 
 ---
 
